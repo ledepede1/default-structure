@@ -20,5 +20,5 @@ client_scripts {
 
 server_scripts {
 	'Configs/Sv_Config.lua',
-	'Server/Server.lua',
+	'Server/Main.lua',
 }
